@@ -1,6 +1,6 @@
 Avanced Topics in Web Development 2 - Report
 =======
-## Abdul Hadi bin Abdul Rahman - 19038651
+
 ---
 ## Parsing Methods and Tools
 
